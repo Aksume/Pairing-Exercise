@@ -1,0 +1,48 @@
+.container{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.hdimg{
+    display: flex;
+    justify-content: center;
+    
+}
+.logo{
+    position: absolute;
+    top: 8px;
+    left: 250px;
+    font-size: 3rem;
+}
+.artist{
+    color: black;
+    font-size: large;
+    background-color: bisque;
+    height: 65px;
+    width: 1100px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    font-size: 2rem;
+}
+.artimgbx{
+    background-color: bisque;
+    height: 350px;
+    width: 1100px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    color: black;
+}
+.row {
+    display: flex;
+    align-items: center;
+  }
+/* .harry{
+    border: solid black;
+    height: 200px;
+    width: 300px;
+    background-color: aqua;
+
+} */
